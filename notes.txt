@@ -1,0 +1,2 @@
+Formula for finding the sum of 'n' natural numbers
+sum = n * ( n + 1 ) / 2
